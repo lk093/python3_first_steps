@@ -1,7 +1,6 @@
 #! /Library/Frameworks/Python.framework/Versions/3.6/bin/python3
 
 n = 5
-
 s =""
 
 # if n%2 != 0:
